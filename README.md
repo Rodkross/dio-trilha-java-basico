@@ -1,4 +1,4 @@
-# dio-trilha-java-basico
+# Dio-trilha-java-basico
 Repositório de exemplos do curso de Java Básico pela DIO 💜
 
 |Conteudo| Link da documentação|
