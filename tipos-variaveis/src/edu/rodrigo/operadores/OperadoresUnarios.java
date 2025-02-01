@@ -8,8 +8,7 @@ public class OperadoresUnarios {
         (++) Operador unário de incremento de valor – incrementa o valor em 1 unidade;
         (--) Operador unário de decremento de valor – decrementa o valor em 1 unidade;
         (!) Operador unário lógico de negação – nega o valor de uma expressão booleana;
-        */
+        */    
 
-        
     }
 }
