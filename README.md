@@ -6,6 +6,7 @@ Repositório de exemplos do curso de Java Básico pela DIO 💜
 |Anatomia de classes|[🔗 Aula 1](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/anatomia-das-classes)|
 |Tipos de variáveis|[🔗 Aula 2](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/variaveis)|
 |Operadores|[🔗  Aula 3](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/operadores)|
+|Métodos|[🔗  Aula 4] (https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/metodos)
 
 
 ## Referência
