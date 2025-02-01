@@ -13,15 +13,14 @@ Repositório de exemplos do curso de Java Básico pela DIO 💜
  - [Documentação Java DIO 💜](https://felipe-aguiar.gitbook.io/dio-java)
  
 
+# Olá, eu sou o Rodrigo! 👋
+
 ## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora em contrução...
 
 Procuro desenvolver aplicações que solucione problemas em nosso dia a dia. Trazendo ⏳ ganho de tempo, 🏋️ esforço e 💰 dinheiro.
 
 
-
-
-# Olá, eu sou o Rodrigo! 👋
 
 
 ## 🛠 Habilidades
