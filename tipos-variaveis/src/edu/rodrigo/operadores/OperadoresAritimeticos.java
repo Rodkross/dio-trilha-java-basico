@@ -1,6 +1,6 @@
 package edu.rodrigo.operadores;
 
-public class operadores {
+public class OperadoresAritimeticos {
    public static void main(String[] args) {
         //Classe operadores Java
         // (=) atribuição
