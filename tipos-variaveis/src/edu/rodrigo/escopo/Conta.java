@@ -1,5 +1,5 @@
 package edu.rodrigo.escopo;
-
+/* 
 public class Escopo {
     public class Conta {
         //variavel da classe conta
@@ -32,3 +32,4 @@ public class Escopo {
         }
     }
 }
+    */
