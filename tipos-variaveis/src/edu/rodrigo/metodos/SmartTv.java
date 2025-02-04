@@ -24,4 +24,20 @@ public class SmartTv {
             volume--;
         }
     }
+
+    public void AumentarCanal(){
+        if(canal < 6){
+            canal++;
+        }else{
+            canal = canal - 5;
+        }
+    }
+
+    public void DiminuirCanal(){
+        if(canal > 1){
+            canal--;
+        }else{
+            canal = canal + 5;
+        }
+    }
 }

@@ -29,6 +29,22 @@ public class Usuario {
         
         System.out.println("Tv volume: "+smartTv.volume);
 
+
+        System.out.println("Tv canal: "+smartTv.canal);
+        smartTv.AumentarCanal();
+        smartTv.AumentarCanal();
+        smartTv.AumentarCanal();
+        smartTv.AumentarCanal();
+        System.out.println("Tv canal: "+smartTv.canal);
+
+        smartTv.DiminuirCanal();
+        smartTv.DiminuirCanal();
+        smartTv.DiminuirCanal();
+        smartTv.DiminuirCanal();
+        smartTv.DiminuirCanal();
+        smartTv.DiminuirCanal();
+        smartTv.DiminuirCanal();
+        System.out.println("Tv canal: "+smartTv.canal);
     }
     
 }
