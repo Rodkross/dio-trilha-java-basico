@@ -7,6 +7,7 @@ Repositório de exemplos do curso de Java Básico pela DIO 💜
 |Tipos de variáveis|[🔗 Aula 2](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/variaveis)|
 |Operadores|[🔗  Aula 3](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/operadores)|
 |Métodos|[🔗  Aula 4](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/metodos)|
+|Escopo|[🔗  Aula 5](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/escopo)|
 
 
 ## Referência
