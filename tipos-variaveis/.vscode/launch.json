@@ -1,0 +1,105 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "tipos-variaveis_11cbe10d"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.Terminal_Argumentos.AboutMe",
+            "projectName": "tipos-variaveis_11cbe10d",
+            "args": 
+            [
+                "Rodrigo",
+                "Souza",   
+                39,
+                "1.71"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.Terminal_Argumentos.MinhaClasse",
+            "projectName": "tipos-variaveis_11cbe10d"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.metodos.Usuario",
+            "projectName": "tipos-variaveis_11cbe10d"
+        },
+        {
+            "type": "java",
+            "name": "Decremento",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.operadores.Decremento",
+            "projectName": "tipos-variaveis_11cbe10d"
+        },
+        {
+            "type": "java",
+            "name": "Incremento",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.operadores.Incremento",
+            "projectName": "tipos-variaveis_11cbe10d"
+        },
+        {
+            "type": "java",
+            "name": "Negacao",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.operadores.Negacao",
+            "projectName": "tipos-variaveis_11cbe10d"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresAritimeticos",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.operadores.OperadoresAritimeticos",
+            "projectName": "tipos-variaveis_11cbe10d"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.operadores.OperadoresLogicos",
+            "projectName": "tipos-variaveis_11cbe10d"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.operadores.OperadoresRelacionais",
+            "projectName": "tipos-variaveis_11cbe10d"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresTernarios",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.operadores.OperadoresTernarios",
+            "projectName": "tipos-variaveis_11cbe10d"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresUnarios",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.operadores.OperadoresUnarios",
+            "projectName": "tipos-variaveis_11cbe10d"
+        }
+    ]
+}
