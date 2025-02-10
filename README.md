@@ -9,6 +9,7 @@ Repositório de exemplos do curso de Java Básico pela DIO 💜
 |Métodos|[🔗  Aula 4](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/metodos)|
 |Escopo|[🔗  Aula 5](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/escopo)|
 |Javadoc|[🔗  Aula 6](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/documentacao)|
+|Terminal e Argumentos|[🔗  Aula 7](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/terminal-e-argumentos)|
 
 ## Referência
 
