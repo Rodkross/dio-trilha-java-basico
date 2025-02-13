@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Encadeada",
+            "request": "launch",
+            "mainClass": "Encadeada",
+            "projectName": "dio-trilha-java-basico_45d67a92"
+        },
+        {
+            "type": "java",
+            "name": "Composta",
+            "request": "launch",
+            "mainClass": "Composta",
+            "projectName": "dio-trilha-java-basico_45d67a92"
+        },
+        {
+            "type": "java",
+            "name": "Simples",
+            "request": "launch",
+            "mainClass": "Simples",
+            "projectName": "dio-trilha-java-basico_45d67a92"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -23,7 +44,12 @@
             "request": "launch",
             "mainClass": "edu.rodrigo.Terminal_Argumentos.AboutMe",
             "projectName": "dio-trilha-java-basico_45d67a92",
-            "args": ["Rodrigo", "Souza", 39, "1.71"]
+            "args": [
+                "Rodrigo",
+                "Souza",
+                39,
+                "1.71"
+            ]
         },
         {
             "type": "java",
