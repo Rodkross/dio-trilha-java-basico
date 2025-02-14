@@ -22,10 +22,10 @@ public class ExemploWhile {
             System.out.printf("Doce valor %.2f adicionado ao carrinho \n", valorDoce);
             mesada -= valorDoce;
             carrinho += valorDoce; 
-            System.out.printf("Valor carrinho: R$%.2f.\n", carrinho); 
         }
 
         System.out.printf("Mesada: %.2f \n", mesada);
+        System.out.printf("Valor carrinho: R$%.2f.\n", carrinho); 
         System.out.println("Joaozinho gastou toda sua mesada em doces.");
     }
 
