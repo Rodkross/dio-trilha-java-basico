@@ -10,6 +10,8 @@ Repositório de exemplos do curso de Java Básico pela DIO 💜
 |Escopo|[🔗  Aula 5](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/escopo)|
 |Javadoc|[🔗  Aula 6](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/documentacao)|
 |Terminal e Argumentos|[🔗  Aula 7](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/terminal-e-argumentos)|
+|Estruturas condicionais |[🔗  Aula 8](https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/terminal-e-argumentos)|
+|Estruturas de repetição |[🔗  Aula 9](https://felipe-aguiar.gitbook.io/dio-java/gitbook/controle-de-fluxo/estruturas-de-repeticao)|
 
 ## Referência
 
