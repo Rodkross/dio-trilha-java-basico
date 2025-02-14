@@ -23,5 +23,7 @@ public class SwitchCase {
                 break;
         }
         scanner.close();
+
+        //se optarmos por switch case estudar um pouco mais sobre continue, break e default
     }    
 }
