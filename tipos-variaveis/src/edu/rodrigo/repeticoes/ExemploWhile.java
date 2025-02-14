@@ -23,13 +23,10 @@ public class ExemploWhile {
             mesada -= valorDoce;
             carrinho += valorDoce; 
             System.out.printf("Valor carrinho: R$%.2f.\n", carrinho); 
-
-            
         }
 
         System.out.printf("Mesada: %.2f \n", mesada);
         System.out.println("Joaozinho gastou toda sua mesada em doces.");
-
     }
 
     private static double valorAleatorio() {
