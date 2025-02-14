@@ -21,7 +21,7 @@ Repositório de exemplos do curso de Java Básico pela DIO 💜
 ## 🚀 Sobre mim
 Eu sou um desenvolvedor em construção...
 
-Procuro desenvolver aplicações que solucione problemas em nosso dia a dia. Trazendo ⏳ ganho de tempo, 🏋️ esforço e 💰 dinheiro.
+Procuro desenvolver aplicações que solucione problemas em nosso dia a dia. Trazendo  ganho de tempo ⏳,  esforço 🏋️ e  dinheiro 💰.
 
 
 
