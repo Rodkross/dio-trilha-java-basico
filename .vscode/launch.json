@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.repeticoes.ExemploForArray",
+            "projectName": "dio-trilha-java-basico_45d67a92"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.repeticoes.ExemploFor",
+            "projectName": "dio-trilha-java-basico_45d67a92"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.repeticoes.For",
+            "projectName": "dio-trilha-java-basico_45d67a92"
+        },
+        {
+            "type": "java",
             "name": "SwitchCase",
             "request": "launch",
             "mainClass": "SwitchCase",
