@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "SwitchCase",
+            "projectName": "dio-trilha-java-basico_45d67a92"
+        },
+        {
+            "type": "java",
             "name": "Encadeada",
             "request": "launch",
             "mainClass": "Encadeada",
