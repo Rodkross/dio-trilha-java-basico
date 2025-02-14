@@ -4,7 +4,7 @@ public class ExemploForArray {
     public static void main(String[] args) {
         String alunos [] = 
         {
-            "Joao", "Maria", "Pedro", "Ana", "Rafael"
+            "Joao", "Maria", "Pedro", "Ana"
         };
 
         for(int x = 0; x < alunos.length; x++){

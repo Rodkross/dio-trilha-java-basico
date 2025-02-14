@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploForEach",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.repeticoes.ExemploForEach",
+            "projectName": "dio-trilha-java-basico_45d67a92"
+        },
+        {
+            "type": "java",
             "name": "ExemploForArray",
             "request": "launch",
             "mainClass": "edu.rodrigo.repeticoes.ExemploForArray",
