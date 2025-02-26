@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalcMediaAlunos",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.debugging.CalcMediaAlunos",
+            "projectName": "dio-trilha-java-basico_45d67a92"
+        },
+        {
+            "type": "java",
+            "name": "Debugando",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.debugging.Debugando",
+            "projectName": "dio-trilha-java-basico_45d67a92"
+        },
+        {
+            "type": "java",
             "name": "ExemploWhile",
             "request": "launch",
             "mainClass": "edu.rodrigo.repeticoes.ExemploWhile",
